@@ -8,7 +8,7 @@ A professional with over 3 years of experience in business and data analysis. Bu
 
 ## My Experience
 
-Throughout my career, I've had the opportunity to work on various web projects, managing their workflows and contributing to the overall project design. During this time, I've developed a passion for research and analysis. My drive to solve problems through research is a key part of what I do.
+Throughout my career, I've had the opportunity to work on various web projects, managing their workflows and contributing to the overall project design. I also have in-depth knowledge of BPMN, which has allowed me to model and optimize complex business processes. During this time, I've developed a passion for research and analysis. My drive to solve problems through research is a key part of what I do.
 
 If you have any questions or would like to collaborate, please feel free to get in touch. I'm always eager to connect and explore new opportunities.
 
