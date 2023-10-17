@@ -2,7 +2,7 @@
 - 👀 I’m interested in all about Data: Research & Analytics.
 - 💞️ I’m looking to collaborate on Business & Data Projects.
 
-# About Me
+## About Me
 
 A professional with over 3 years of experience in business and data analysis. Business and data analysis hold a special place in my heart.
 
